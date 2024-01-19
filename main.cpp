@@ -3,7 +3,7 @@
 int main() {
   // Definir las variables
   int numero1 = 2;
-  int numero2 = 2;
+  int numero2 = 3;
 
   // Realizar la suma
   int resultado = numero1 + numero2;
